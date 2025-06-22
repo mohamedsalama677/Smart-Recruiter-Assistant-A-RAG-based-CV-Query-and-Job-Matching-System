@@ -1,1 +1,0 @@
-# Smart-Recruiter-Assistant-A-RAG-based-CV-Query-and-Job-Matching-System
